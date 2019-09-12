@@ -1,0 +1,37 @@
+answered_by,date_created,date_updated,direction,duration,duration_billed,end_time,forwarded_from,from,phone_number_sid,price,status
+nobody,"Fri, 24 Aug 2018 17:59:18","Fri, 24 Aug 2018 17:59:20",outbound-sip,0,0,,,19058546935,DIf674eb32bd25446619954dcaa0b9399c,0,in-progress
+telapi,"Fri, 24 Aug 2018 17:59:16","Fri, 24 Aug 2018 17:59:16",inbound,0,0,,,19058546935,DIf674eb32bd25446619954dcaa0b9399c,0,in-progress
+nobody,"Fri, 24 Aug 2018 17:49:50","Fri, 24 Aug 2018 17:49:50",outbound-sip,0,0,,,16233089708,DIf674eb32bd25446619954dcaa0b9399c,0,queued
+telapi,"Fri, 24 Aug 2018 17:49:48","Fri, 24 Aug 2018 17:49:49",inbound,1,0,"Fri, 24 Aug 2018 17:49:49",,16233089708,DIf674eb32bd25446619954dcaa0b9399c,0,canceled
+nobody,"Fri, 24 Aug 2018 17:40:28","Fri, 24 Aug 2018 17:59:30",outbound-sip,1140,0,"Fri, 24 Aug 2018 17:59:30",,12049416268,DI7c88908478f81ff7fd68498a8597de82,0,in-progress
+telapi,"Fri, 24 Aug 2018 17:40:24","Fri, 24 Aug 2018 17:59:31",inbound,1147,0,"Fri, 24 Aug 2018 17:59:31",,12049416268,DI7c88908478f81ff7fd68498a8597de82,0,in-progress
+nobody,"Fri, 24 Aug 2018 17:38:20","Fri, 24 Aug 2018 17:38:43",outbound-sip,21,60,"Fri, 24 Aug 2018 17:38:42",,16026940701,DIf674eb32bd25446619954dcaa0b9399c,0.002,completed
+telapi,"Fri, 24 Aug 2018 17:38:18","Fri, 24 Aug 2018 17:38:43",inbound,25,60,"Fri, 24 Aug 2018 17:38:42",,16026940701,DIf674eb32bd25446619954dcaa0b9399c,0.03,completed
+nobody,"Fri, 24 Aug 2018 17:36:16","Fri, 24 Aug 2018 17:36:29",outbound-sip,10,60,"Fri, 24 Aug 2018 17:36:27",,16303769003,DI8f88908408c45c0e79ff4ef18c9928a5,0.002,completed
+nobody,"Fri, 24 Aug 2018 17:36:14","Fri, 24 Aug 2018 17:36:26",outbound-sip,9,60,"Fri, 24 Aug 2018 17:36:25",,Unavailable,DI65889084b16bd37fa5174f4198f6c3e4,0.002,completed
+telapi,"Fri, 24 Aug 2018 17:36:14","Fri, 24 Aug 2018 17:36:28",inbound,13,60,"Fri, 24 Aug 2018 17:36:27",,16303769003,DI8f88908408c45c0e79ff4ef18c9928a5,0.03,completed
+telapi,"Fri, 24 Aug 2018 17:36:13","Fri, 24 Aug 2018 17:36:26",inbound,13,60,"Fri, 24 Aug 2018 17:36:25",,Unavailable,DI65889084b16bd37fa5174f4198f6c3e4,0.01,completed
+nobody,"Fri, 24 Aug 2018 17:36:11","Fri, 24 Aug 2018 17:36:22",outbound-sip,9,60,"Fri, 24 Aug 2018 17:36:21",,anonymous,DI228890848959f4ff579c495bb4b771b1,0.002,completed
+tbd,"Fri, 24 Aug 2018 17:36:10","Fri, 24 Aug 2018 17:36:25",outbound-api,8,60,"Fri, 24 Aug 2018 17:36:24",,Monitoring,,0.065,completed
+nobody,"Fri, 24 Aug 2018 17:36:09","Fri, 24 Aug 2018 17:36:20",outbound-sip,9,60,"Fri, 24 Aug 2018 17:36:19",,Unavailable,DI22889084328769f17769451a8c4c0789,0.002,completed
+telapi,"Fri, 24 Aug 2018 17:36:09","Fri, 24 Aug 2018 17:36:22",inbound,12,60,"Fri, 24 Aug 2018 17:36:21",,anonymous,DI228890848959f4ff579c495bb4b771b1,0.01,completed
+telapi,"Fri, 24 Aug 2018 17:36:08","Fri, 24 Aug 2018 17:36:20",inbound,12,60,"Fri, 24 Aug 2018 17:36:19",,,DI22889084328769f17769451a8c4c0789,0.01,completed
+tbd,"Fri, 24 Aug 2018 17:36:07","Fri, 24 Aug 2018 17:36:27",outbound-api,8,60,"Fri, 24 Aug 2018 17:36:26",,Monitoring,,0.065,completed
+nobody,"Fri, 24 Aug 2018 17:36:06","Fri, 24 Aug 2018 17:36:19",outbound-sip,10,60,"Fri, 24 Aug 2018 17:36:17",,anonymous,DIf674eb329fd08933fb5f47b398fda546,0.002,completed
+tbd,"Fri, 24 Aug 2018 17:36:06","Fri, 24 Aug 2018 17:36:21",outbound-api,7,60,"Fri, 24 Aug 2018 17:36:20",,Monitoring,,0.06,completed
+nobody,"Fri, 24 Aug 2018 17:36:05","Fri, 24 Aug 2018 17:36:16",outbound-sip,9,60,"Fri, 24 Aug 2018 17:36:15",,anonymous,DI228890840db9eaa08b57411089763ebf,0.002,completed
+telapi,"Fri, 24 Aug 2018 17:36:04","Fri, 24 Aug 2018 17:36:18",inbound,13,60,"Fri, 24 Aug 2018 17:36:17",,anonymous,DIf674eb329fd08933fb5f47b398fda546,0.01,completed
+telapi,"Fri, 24 Aug 2018 17:36:04","Fri, 24 Aug 2018 17:36:16",inbound,12,60,"Fri, 24 Aug 2018 17:36:15",,anonymous,DI228890840db9eaa08b57411089763ebf,0.01,completed
+tbd,"Fri, 24 Aug 2018 17:36:04","Fri, 24 Aug 2018 17:36:20",outbound-api,8,60,"Fri, 24 Aug 2018 17:36:19",,Monitoring,,0.068,completed
+tbd,"Fri, 24 Aug 2018 17:36:01","Fri, 24 Aug 2018 17:36:15",outbound-api,7,60,"Fri, 24 Aug 2018 17:36:14",,Monitoring,,0.05972,completed
+nobody,"Fri, 24 Aug 2018 17:36:01","Fri, 24 Aug 2018 17:36:13",outbound-sip,9,60,"Fri, 24 Aug 2018 17:36:11",,anonymous,DI2288908490b3eebeba7645998bb8bd87,0.002,completed
+nobody,"Fri, 24 Aug 2018 17:35:59","Fri, 24 Aug 2018 17:37:01",outbound-api,0,0,"Fri, 24 Aug 2018 17:37:01",,Monitoring,,0,canceled
+nobody,"Fri, 24 Aug 2018 17:35:59","Fri, 24 Aug 2018 17:36:09",outbound-sip,8,60,"Fri, 24 Aug 2018 17:36:08",,anonymous,DIbf889084509ab935ed1a4ff0b3a8fa7e,0.002,completed
+telapi,"Fri, 24 Aug 2018 17:35:59","Fri, 24 Aug 2018 17:36:12",inbound,12,60,"Fri, 24 Aug 2018 17:36:11",,anonymous,DI2288908490b3eebeba7645998bb8bd87,0.01,completed
+telapi,"Fri, 24 Aug 2018 17:35:57","Fri, 24 Aug 2018 17:36:09",inbound,11,60,"Fri, 24 Aug 2018 17:36:08",,anonymous,DIbf889084509ab935ed1a4ff0b3a8fa7e,0.01,completed
+tbd,"Fri, 24 Aug 2018 17:35:57","Fri, 24 Aug 2018 17:36:16",outbound-api,7,60,"Fri, 24 Aug 2018 17:36:15",,Monitoring,,0.07868,completed
+nobody,"Fri, 24 Aug 2018 17:35:55","Fri, 24 Aug 2018 17:36:07",outbound-sip,10,60,"Fri, 24 Aug 2018 17:36:06",,Unavailable,DIe18890847ad8c868e29341178331305d,0.002,completed
+tbd,"Fri, 24 Aug 2018 17:35:55","Fri, 24 Aug 2018 17:36:11",outbound-api,7,60,"Fri, 24 Aug 2018 17:36:10",,Monitoring,,0.075,completed
+nobody,"Fri, 24 Aug 2018 17:35:54","Fri, 24 Aug 2018 17:36:05",outbound-sip,9,60,"Fri, 24 Aug 2018 17:36:04",,5749055110,DI22889084c3bb9ca39fe346f992499a11,0.002,completed
+telapi,"Fri, 24 Aug 2018 17:35:53","Fri, 24 Aug 2018 17:36:06",inbound,13,60,"Fri, 24 Aug 2018 17:36:06",,,DIe18890847ad8c868e29341178331305d,0.01,completed
+tbd,"Fri, 24 Aug 2018 17:35:53","Fri, 24 Aug 2018 17:36:09",outbound-api,8,60,"Fri, 24 Aug 2018 17:36:08",,Monitoring,,0.08,completed
