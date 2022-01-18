@@ -1,7 +1,5 @@
 // C program for a v6 file system
-// Omkar Jagdale (osj170000): openfs, Count-free, initfs code and debugging
-// Nigel Lacewell: openfs and initfs code and debugging
-// Rishi Chandra (rxc170008): Debugging, formatting/commenting
+
 #include <sys/types.h>
 #include <signal.h>
 #include <stdio.h>
