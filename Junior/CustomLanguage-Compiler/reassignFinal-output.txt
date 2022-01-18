@@ -1,0 +1,11 @@
+Program:
+class x {
+final int y = 1;
+void main(  ){
+	y = 2;
+
+}
+
+}
+IM in Program
+Error: cannot change the value of a constant/final

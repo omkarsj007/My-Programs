@@ -1,0 +1,13 @@
+Program:
+class x {
+void foo(  ){
+
+}
+int foo( intx ){
+	return 1;
+
+}
+
+}
+IM in Program
+Error: foo can't be redeclared

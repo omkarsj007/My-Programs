@@ -1,0 +1,9 @@
+Program:
+class x {
+int main(  ){
+
+}
+
+}
+IM in Program
+Error: function is missing a return statement

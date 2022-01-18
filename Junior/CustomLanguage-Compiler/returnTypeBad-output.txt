@@ -1,0 +1,10 @@
+Program:
+class xemacs {
+int foo(  ){
+	return 1.0;
+
+}
+
+}
+IM in Program
+Error: incorrect type returned

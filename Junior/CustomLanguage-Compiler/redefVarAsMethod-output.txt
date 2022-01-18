@@ -1,0 +1,10 @@
+Program:
+class x {
+ char y;
+void y(  ){
+
+}
+
+}
+IM in Program
+Error: y can't be redeclared
