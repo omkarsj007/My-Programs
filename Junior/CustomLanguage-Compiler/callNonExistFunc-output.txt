@@ -1,0 +1,10 @@
+Program:
+class x {
+void main(  ){
+	nonExistFoo(); 
+
+}
+
+}
+IM in Program
+Error: nonExistFoo not declared

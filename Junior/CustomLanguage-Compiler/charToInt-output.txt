@@ -1,0 +1,10 @@
+Program:
+class x {
+int main(  ){
+ int y = 'c';
+
+}
+
+}
+IM in Program
+Error: Illegal assignment to fielddecl

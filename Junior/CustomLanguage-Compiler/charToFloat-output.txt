@@ -1,0 +1,12 @@
+Program:
+class x {
+void main(  ){
+ char x;
+ float y;
+	y = x;
+
+}
+
+}
+IM in Program
+Error: Illegal Assignment operation
