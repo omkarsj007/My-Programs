@@ -1,0 +1,11 @@
+Program:
+class x {
+void main(  ){
+ char y;
+ bool z = (~y);
+
+}
+
+}
+IM in Program
+Error: incompatible types
