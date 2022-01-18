@@ -1,0 +1,10 @@
+Program:
+class x {
+void main(  ){
+	print ( ("test" - "other") ); 
+
+}
+
+}
+IM in Program
+Error: Illegal binary operation

@@ -1,0 +1,10 @@
+Program:
+class x {
+void main(  ){
+ bool y = (1.0?true:false);
+
+}
+
+}
+IM in Program
+Error: Incorrect ternary op

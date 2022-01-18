@@ -1,0 +1,10 @@
+Program:
+class x {
+void main(  ){
+ int y = false;
+
+}
+
+}
+IM in Program
+Error: Illegal assignment to fielddecl

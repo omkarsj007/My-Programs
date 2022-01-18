@@ -1,0 +1,11 @@
+Program:
+class x {
+void main(  ){
+ char y;
+	y++;
+
+}
+
+}
+IM in Program
+Error: variable other than int or float cannot be incremented or decremented
