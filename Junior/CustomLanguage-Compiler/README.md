@@ -1,3 +1,6 @@
+# The following is a miniature example of what a compiler grammar looks like
+# To view the extensive grammar and lexical analysis for this compiler
+# please view the .cup and .jflex files
 # Example-Project
 Program       StmtList
 StmtList      Stmt
