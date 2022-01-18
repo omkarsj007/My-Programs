@@ -1,8 +1,6 @@
 // C++ program to multiply two numbers represented 
 // as strings. 
-// Omkar Jagdale (osj170000): Coded the thread function, modified multiply function
-// Nigel Lacewell:worked on vector translation, output to file, and debugging 
-// Rishi Chandra (rxc170008): Worked on egde cases, debugging, and formatting 
+ 
 #include<bits/stdc++.h> 
 #include<string>
 #include<iostream>
