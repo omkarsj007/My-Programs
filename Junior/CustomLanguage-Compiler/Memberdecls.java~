@@ -1,0 +1,19 @@
+class Memberdecls implements Token
+{
+    Fielddecls fs;
+    Methoddecls ms;
+
+    public Memberdecls(Fielddecls f, Methoddecls m)
+    {
+        fs = f;
+        ms = m;
+    }
+
+   
+    public String toString(int t)
+    {
+        String ret = "";
+	ret = fs.toString(t) + ms.toString(t);
+	return ret;
+    }
+}
